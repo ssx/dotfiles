@@ -52,7 +52,6 @@ cask 'qlmarkdown'
 cask 'fastlane'
 
 # Apps
-cask 'caffeine'
 cask 'dropbox'
 cask 'firefox'
 cask 'google-chrome'
@@ -65,6 +64,10 @@ cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 cask 'vlc'
+
+# menubar utils
+cask 'gitify'
+cask 'caffeine'
 
 # Install Mac App Store apps
 mas '1Password', id: 443987910
