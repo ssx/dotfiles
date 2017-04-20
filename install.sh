@@ -35,6 +35,7 @@ cd ~/Dropbox/dotfiles
 brew bundle
 cd ~
 gem install bundler
+gem install jekyll
 
 # Install Composer
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"\
