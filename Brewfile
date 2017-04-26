@@ -64,6 +64,7 @@ cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 cask 'vlc'
+cask 'licecap'
 
 # menubar utils
 cask 'gitify'
