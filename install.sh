@@ -52,3 +52,7 @@ sudo brew services stop --all
 
 # Install NPM modules
 sudo npm install -g bower yarn cssunminifier gulp purify-css jasmine
+
+# Install any rubygems
+sudo gem install travis -v 1.8.8 --no-rdoc --no-ri
+
