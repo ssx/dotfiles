@@ -50,6 +50,7 @@ cask 'provisionql'
 cask 'quicklookapk'
 cask 'qlmarkdown'
 cask 'fastlane'
+cask 'freeze'
 
 # Apps
 cask 'dropbox'
@@ -81,7 +82,6 @@ mas 'Tweetbot', id: 557168941
 # Docker for Mac
 # Atom
 # GenyMotion
-# Freeze
 # Franz
 # Knox
 # Microsoft Office
