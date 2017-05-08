@@ -25,6 +25,7 @@ brew 'tree'
 brew 'mackup'
 brew 'mas'
 brew 'keybase'
+brew 'mycli'
 
 # Install PHP7
 brew 'php71', args: ['with-debug']
