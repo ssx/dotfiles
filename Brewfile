@@ -27,6 +27,7 @@ brew 'mas'
 brew 'keybase'
 brew 'mycli'
 brew 'scmpuff'
+brew 'wireshark'
 
 # Install PHP7
 brew 'php71', args: ['with-debug']
